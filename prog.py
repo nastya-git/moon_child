@@ -1,4 +1,5 @@
-#     for i in list:
+# -*- coding: utf-8 -*- 
+for i in list:
         if (i.xpos, i.ypos) == (x, y):
             x, y = apple_gen(list)
         else:
